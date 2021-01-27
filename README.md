@@ -1,5 +1,5 @@
 # Widhya-Machine-Learning-Winternship
-#### Widhya home page : https://widhya.org/
+#### Widhya homepage : https://widhya.org/
 
 ## Machine Learning Missions
 
